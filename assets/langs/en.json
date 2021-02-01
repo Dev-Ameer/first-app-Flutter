@@ -1,0 +1,9 @@
+{
+    "app":"The converter",
+    "appTitle": "Weights converter", 
+    "texfild": " Enter the value", 
+    "result": " The result", 
+    "convert1": "Convert from kilograms to pounds",
+    "convert2": "Convert from pounds to kilograms",
+    "copytext": "Copied"
+}
